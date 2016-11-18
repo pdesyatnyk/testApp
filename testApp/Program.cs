@@ -12,6 +12,7 @@ namespace testApp
 
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("new branch");
         }
     }
 }
